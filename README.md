@@ -169,4 +169,6 @@ It provides stakeholders with a clear way to monitor **booking performance, reve
 
 **Chetan Verma**
 
-Gmail LinkedIn GitHub
+[![Gmail](https://img.shields.io/badge/-vermac792@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:vermac792@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-verma-193856275/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ChetanX18)
