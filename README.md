@@ -169,4 +169,4 @@ It provides stakeholders with a clear way to monitor **booking performance, reve
 
 **Chetan Verma**
 
-Data Analyst | Power BI | SQL | Excel | Python
+vermac792@gmail.com 🔗https://www.linkedin.com/in/chetan-verma-193856275/  https://github.com/ChetanX18
